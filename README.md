@@ -109,5 +109,5 @@ This project was built with awareness of pharmaceutical cold chain regulatory re
 ---
 
 ## Author
-**Sansu** | B.Tech Mechanical Engineering, MANIT Bhopal  
+**Sanskriti Kesharwani** | B.Tech Mechanical Engineering, MANIT Bhopal  
 Aspiring Data & Business Analyst | Pharma & Supply Chain Analytics
